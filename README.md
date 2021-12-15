@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ### Most Used Languages 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1362000&layout=compact&theme=midnight-purple)](https://github.com/Akash1362000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalamin-eu&layout=compact&theme=midnight-purple)](https://github.com/mdalamin-eu)
