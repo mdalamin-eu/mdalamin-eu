@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Mostly Work With ⚒
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React.js)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
