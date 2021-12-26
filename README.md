@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Aws)&nbsp;
-![Travis CI](https://img.shields.io/badge/-Travis-05122A?style=flat&logo=Travis CI)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+![AWS](https://img.shields.io/badge/-Aws-05122A?style=flat&logo=Aws)&nbsp;
+![Travis CI](https://img.shields.io/badge/-Travis-05122A?style=flat&logo=Travis)&nbsp;
+![SQL](https://img.shields.io/badge/-Sql-05122A?style=flat&logo=Sql)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
