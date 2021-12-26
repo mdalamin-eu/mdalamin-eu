@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![AWS](https://img.shields.io/badge/-Aws-05122A?style=flat&logo=Aws)&nbsp;
 ![Travis CI](https://img.shields.io/badge/-Travis-05122A?style=flat&logo=Travis)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![SQL](https://img.shields.io/badge/-Sql-05122A?style=flat&logo=Sql)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
