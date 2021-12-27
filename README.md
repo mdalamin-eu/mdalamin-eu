@@ -44,3 +44,25 @@ Here are some ideas to get you started:
 ### Most Used Languages 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalamin-eu&layout=compact&theme=midnight-purple)](https://github.com/mdalamin-eu)
+
+
+### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/mdalamin-eu/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Alamin linkedin style="margin-bottom: 5px;" />
+</a>
+  
+ <a href="https://github.com/mdalamin-eu" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Alamin GitHub style="margin-bottom: 5px;" />
+</a>
+  
+
+<a href="mailto:mdalamin.eu@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Alamin gmail style="margin-bottom: 5px;" />
+</a>
+
+                                                                                                                                          
+
+</div>  
+
