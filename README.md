@@ -1,5 +1,5 @@
 ### Hi there,👋 
-I'm Alamin a full-stack software developer. Currently working on side projects. In my spare time, I enjoy learning new things 📚, building personal-projects 🔨, doing photography 📸, contributing to Open Source 🖥️ .
+I'm Alamin a full-stack software developer. Currently working at ABB. In my spare time, I enjoy learning new things 📚, building personal-projects 🔨, doing photography 📸, contributing to Open Source 🖥️ .
 
 <!--
 **mdalamin-eu/mdalamin-eu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
