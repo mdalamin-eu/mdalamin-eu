@@ -1,7 +1,5 @@
 ### Hi there,👋 
-I am a full-stack developer with expertise in building scalable, cloud-based applications. I have experience in technologies JavaScript, Typescript, React, Redux, Node.js, Vue, Vuex, Pug, Ionic, HTML, CSS, Docker, AWS, Azure DevOps, SQL, NoSQL and Oracle Database. I have contributed to both front-end and back-end projects, from developing complex web services to managing databases, and I enjoy working in agile teams.
-
-Beyond work, I enjoy learning new things 📚, building personal projects 🔨, doing photography 📸, contributing to Open Source 🖥️, and watching science fiction films 🎞️.
+I'm a full-stack developer with expertise in building scalable, cloud-based applications, with experience in companies like ABB, Iplex, and NTS, as well as in freelance app development. I have a strong foundation in both front-end and back-end technologies and enjoy working in agile teams to solve real-world problems. Beyond work, I enjoy learning new things 📚, building personal projects 🔨, doing photography 📸, contributing to Open Source 🖥️, and watching science fiction films 🎞️.
 
 <!--
 **mdalamin-eu/mdalamin-eu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
